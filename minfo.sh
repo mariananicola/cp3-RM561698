@@ -6,7 +6,7 @@ if [ "$#" -ne 1 ]; then
   exit 1
 fi
 
-# Executa de acordo com o argumento
+# Executa de acordo com o argumento.
 case "$1" in
   hostname)
     hostname

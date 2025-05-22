@@ -1,5 +1,5 @@
 # O que é minfo.sh?
-Um script para exibir as informações do sistema baseado em um argumento 
+Um script para exibir as informações do sistema baseado em um argumento.
 
 # Quais argumentos são usados?
 
